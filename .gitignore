@@ -1,8 +1,8 @@
 # OSX
 #
 .DS_Store
-node_moudles
-android
+
+node_modules
 # Xcode
 #
 build/
